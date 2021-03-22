@@ -1,0 +1,45 @@
+h1{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.header{
+    text-align: center;
+}
+
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(145, 70, 216);
+    width: 1500px;
+}
+
+.foto-principal{
+    width: 150px;
+    border-radius: 100%;
+}
+
+.about-me{
+    margin-top: 50px;
+    margin-left: 100px;
+    display: inline-block;
+}
+
+ul{
+    margin-left: 100px;
+}
+
+.hard-skills{
+    display: inline-block;
+    position: absolute;
+    padding: 20px;
+}
+
+.soft-skills{
+    display: inline-block;
+    position: absolute;
+    margin-left: 200px;
+    padding: 20px;
+}
+
+.links{
+    margin-top: 150px;
+}
